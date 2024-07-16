@@ -45,9 +45,8 @@ const SectionThree: React.FC<SectionThreeProps> = ({ scroll }) => {
 					<h2 className={S.title}>Made from the heart, for you</h2>
 					<p className={S.text}>
 						These days, we are all looking for a place where we feel
-						good. Fashion should be an accessory to who you are as
-						well as a reflection of your personality. It is not just
-						what you put on but it is also how you put it on. It’s
+						good. LUXURY should be an accessory to who you are as
+						well as a reflection of your personality.. It’s
 						about the details that make all the difference.
 					</p>
 				</div>

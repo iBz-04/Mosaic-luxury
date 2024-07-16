@@ -53,10 +53,10 @@ const SectionSeven: React.FC<SectionSevenProps> = ({ windowWidth }) => {
 						</div>
 						<div className={S.right}>
 							<p className={S.smallText}>
-								We believe that fashion should not be
+								We believe that comfort and decoration should not be
 								intimidating, luxury is more than leather and
 								silk, and prices are not always the best
-								criteria to judge a good fashion brand.
+								criteria to judge a luxury brand.
 							</p>
 						</div>
 					</div>

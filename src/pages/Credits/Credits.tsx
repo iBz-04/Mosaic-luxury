@@ -107,7 +107,7 @@ const Credits: React.FC<PageProps> = ({
 							</a>
 							<a
 								className={`${S.animateOpacity} ${S.icon}`}
-								href="https://www.linkedin.com/in/felix-enyinnaya-b2593b173/"
+								href="https://www.linkedin.com/in/"
 							>
 								<LinkedIn />
 							</a>
@@ -130,30 +130,30 @@ const Credits: React.FC<PageProps> = ({
 							data-splitting=""
 							className={`${S.textTypeOne} split-text hidden-init`}
 						>
-							Oluwatobiju
+							Ibrahim
 						</p>
 						<p
 							data-splitting=""
 							className={`${S.textTypeOne} split-text hidden-init`}
 						>
-							Judah
+							Rayamah
 						</p>
 						<div className={S.media}>
 							<a
 								className={`${S.animateOpacity} ${S.icon}`}
-								href="https://twitter.com/tobijudah"
+								href="https://twitter.com/ibrahh__ib"
 							>
 								<Twitter />
 							</a>
 							<a
 								className={`${S.animateOpacity} ${S.icon}`}
-								href="https://www.linkedin.com/in/oluwatobiju-judah-omotosho/"
+								href="https://www.linkedin.com/in/ibrahim-rayamah-8b068b229/"
 							>
 								<LinkedIn />
 							</a>
 							<a
 								className={`${S.animateOpacity} ${S.icon}`}
-								href="https://github.com/Tobijudah"
+								href="https://github.com/iBz-04"
 							>
 								<GitHub />
 							</a>

@@ -74,7 +74,7 @@ const SectionFive: React.FC<SectionFiveProps> = ({ windowWidth }) => {
 							className={S.line1}
 						/>
 						<p ref={ref} className={S.subText}>
-							Wear with attitude
+							feel the comfort
 						</p>
 					</div>
 					<div className={S.subRow}>
@@ -89,20 +89,13 @@ const SectionFive: React.FC<SectionFiveProps> = ({ windowWidth }) => {
 				</div>
 				<div className={S.textWrapper}>
 					<p className={S.text}>
-						Minimalism has arrived in a totally new silhouette. The
-						York & Dante collection is manufactured with the highest
-						quality working to blend the right amount of luxury,
-						exclusivity and simplicity. Our brand dedicates itself
-						to unique pieces that are standard in its product line
-						and can easily become your wardrobe's complement without
-						losing your personality or creativity. Our bond is to
-						create timeless pieces that provide ceaseless elegance.
-						The garments are built to be worn from the city to the
-						mountains: made of eco-friendly materials that are
-						handmade within an ethical manufacturing process. All
-						you need to do is add an attitude of confidence and our
-						pieces take care of the rest. Find your style and story
-						within this collection, and leave your mark on it.
+					Minimalism has taken on a fresh silhouette with our Mosaic collection,\
+					 crafted to the highest standards of quality.
+					 We blend luxury, exclusivity, and simplicity effortlessly.
+					 Our brand is dedicated to creating distinctive pieces that seamlessly integrate into your wardrobe
+					  without compromising your individuality or creativity. Each item in our product line is designed to embody timeless elegance.
+
+Our garments are versatile, designed to accompany you from city streets to mountain retreats. They are meticulously crafted from eco-friendly materials, handcrafted through an ethical manufacturing process. Simply add a touch of confidence, and our pieces will effortlessly enhance your style. 
 					</p>
 				</div>
 			</div>

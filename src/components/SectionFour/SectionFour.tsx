@@ -63,8 +63,7 @@ const SectionFour: React.FC = () => {
 				</div>
 				<div className={S.right}>
 					<h3 ref={ref2} className={S.header}>
-						Made of Eco-Friendly materials sewn into the hem of
-						every piece
+						Made of Eco-Friendly materials for you
 					</h3>
 					<Line
 						height="5.67vh"
@@ -72,15 +71,13 @@ const SectionFour: React.FC = () => {
 						id={"verticalLineRef"}
 					/>
 					<p className={S.text}>
-						Internally, the flannel fabric is created from recycled
-						bottles and organic hemp. Its outer shell is made from
-						regenerated cotton fibers that are softer than cotton
-						and sturdier than canvas. This allows our clothing to
-						avoid the harsh chemicals that would normally be used to
-						whiten. We like to think of it as taking the best of
-						everything nature has to offer, maximizing its positive
-						attributes while minimizing its negative
-						characteristics.
+					 Our luxury designs epitomize sustainable elegance.
+					 Our exquisite fabrics are crafted from a blend of recycled bottles and organic hemp,
+					  ensuring both comfort and durability. The outer shell is meticulously woven from regenerated cotton fibers, 
+					  softer than traditional cotton and sturdier than canvas, 
+					  all without the use of harsh chemicals in the whitening process.
+					   We pride ourselves on harnessing the finest aspects of nature, 
+					enhancing its inherent benefits while minimizing environmental impact.
 					</p>
 				</div>
 			</div>

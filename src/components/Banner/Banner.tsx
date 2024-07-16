@@ -8,13 +8,13 @@ const Banner = () => {
 				data-splitting=""
 				className={`${S.textOne} split-text hidden-init`}
 			>
-				York & Dante
+				Mosaic-Luxury
 			</p>
 			<p
 				data-splitting=""
 				className={`${S.textTwo} split-text hidden-init`}
 			>
-				Tobiju  X  Felix
+				Site by iBz
 			</p>
 		</div>
 	);

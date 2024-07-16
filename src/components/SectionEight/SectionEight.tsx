@@ -42,13 +42,13 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
 						className={S.line}
 						windowWidth={windowWidth}
 					/>
-					<p className={S.title}>Chimela</p>
+					<p className={S.title}>latest</p>
 					<p className={S.text}>
-						Each piece of the Chimela has been designed to
-						accentuate the beauty of the female form, from the
-						intricate point d'esprit embroidery. The simplicity and
-						minimal approach is what makes this fashion collection
-						unique.
+					
+Experience the epitome of luxury with our latest collection, 
+where each garment is meticulously crafted to enhance the inherent beauty of the wearer. 
+From intricate detailing to a minimalist aesthetic, 
+our pieces stand out for their exquisite craftsmanship and timeless appeal.
 					</p>
 					<img
 						className={S.img}
@@ -62,13 +62,12 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
 						className={S.line}
 						windowWidth={windowWidth}
 					/>
-					<p className={S.title}>Turbis</p>
+					<p className={S.title}>Craft</p>
 					<p className={S.text}>
-						Designed by luchesse and crafted using luscious fabrics,
-						this Turbis collection is as opulent as it is versatile.
-						Versatile enough to take on any sexy occasion. Designs
-						of this collection are designed to create style you can
-						call your own.
+					Designed by Luchesse and crafted using luxurious fabrics, 
+					the Verona collection exudes opulence and versatility. 
+					Each piece is meticulously created to effortlessly elevate your style for any occasion. 
+					Discover designs that allow you to make a statement uniquely your own, ensuring every moment is embraced with sophistication and allure.
 					</p>
 					<img
 						className={S.img}
@@ -82,13 +81,9 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
 						className={S.line}
 						windowWidth={windowWidth}
 					/>
-					<p className={S.title}>Ardoniss</p>
+					<p className={S.title}>service</p>
 					<p className={S.text}>
-						Ardoniss is a fashion collection from luchesse; this
-						piece depicts the creative and innovative quality of
-						modern fashion. Ardoniss collection encompasses the
-						classical styles of tunics, dresses and trousers with 3D
-						appliqués adorning every hem.
+					Our custom furniture designs blend classic sophistication with modern sensibilities. Whether for homes or businesses, each piece is crafted with meticulous attention to detail.
 					</p>
 					<img
 						className={S.img}
@@ -102,13 +97,9 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
 						className={S.line}
 						windowWidth={windowWidth}
 					/>
-					<p className={S.title}>Plaid</p>
+					<p className={S.title}>decor</p>
 					<p className={S.text}>
-						Plaid is a clean, modern, and minimalistic suit style
-						fashion collection from Luchesse. The lines have been
-						refined to create a dressy uniform that can translate
-						day to night. The exclusive fabrics we use will fit
-						perfectly into your everyday work wardrobe.
+					Transform your space with our luxurious interior decor services. From concept to execution, we create environments that reflect your style and vision, integrating furniture, lighting, and artwork seamlessly.
 					</p>
 					<img
 						className={S.img}
