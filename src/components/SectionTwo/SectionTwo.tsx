@@ -7,7 +7,7 @@ const SectionTwo: React.FC = () => {
 		<section id="section-two" data-scroll-section>
 			<div className={S.section}>
 				<div className={S.textWrapper}>
-					<h2 className={S.title}>The story behind the brand</h2>
+					<h2 className={S.title}>The story behind mosaic</h2>
 					<p className={S.text}>
 						Mossaic is a LUXURY & INTERIOR DECOR agency.
 						 we specialize in creating exceptional experiences 
@@ -16,7 +16,7 @@ const SectionTwo: React.FC = () => {
 						 Our Services
 					</p>
 					<Signature className={S.signature} />
-					<p className={S.person}>Lead designer</p>
+					<p className={S.person}>CEO</p>
 				</div>
 				<div className={S.imageWrapper}>
 					<div className={S.imageContainer}>
