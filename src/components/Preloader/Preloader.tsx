@@ -56,28 +56,28 @@ const Preloader: React.FC<PreloaderProps> = ({ windowWidth, setPreloaded }) => {
 						<div className={S.letter}>
 							<Alphabets
 								dataIndex={1}
-								letterIndex={25}
+								letterIndex={12}
 								ref={letterRefs[0]}
 							/>
 						</div>
 						<div className={S.letter}>
 							<Alphabets
 								dataIndex={2}
-								letterIndex={15}
+								letterIndex={21}
 								ref={letterRefs[1]}
 							/>
 						</div>
 						<div className={S.letter}>
 							<Alphabets
 								dataIndex={3}
-								letterIndex={18}
+								letterIndex={24}
 								ref={letterRefs[2]}
 							/>
 						</div>
 						<div className={S.letter}>
 							<Alphabets
 								dataIndex={4}
-								letterIndex={11}
+								letterIndex={5}
 								ref={letterRefs[3]}
 							/>
 						</div>
@@ -94,28 +94,28 @@ const Preloader: React.FC<PreloaderProps> = ({ windowWidth, setPreloaded }) => {
 						<div className={S.letter}>
 							<Alphabets
 								dataIndex={6}
-								letterIndex={1}
+								letterIndex={5}
 								ref={letterRefs[5]}
 							/>
 						</div>
 						<div className={S.letter}>
 							<Alphabets
 								dataIndex={7}
-								letterIndex={14}
+								letterIndex={3}
 								ref={letterRefs[6]}
 							/>
 						</div>
 						<div className={S.letter}>
 							<Alphabets
 								dataIndex={6}
-								letterIndex={20}
+								letterIndex={15}
 								ref={letterRefs[7]}
 							/>
 						</div>
 						<div className={S.letter}>
 							<Alphabets
 								dataIndex={9}
-								letterIndex={5}
+								letterIndex={18}
 								ref={letterRefs[8]}
 							/>
 						</div>
