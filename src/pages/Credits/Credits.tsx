@@ -79,46 +79,7 @@ const Credits: React.FC<PageProps> = ({
 					>
 						An exploration of a horizontal scroll experience using the Golden cannon grid
 					</p>
-					<div className={S.credit2}>
-						<p
-							data-splitting=""
-							className={`${S.creditTitle} split-text hidden-init`}
-						>
-							Design & Art direction
-						</p>
-						<p
-							data-splitting=""
-							className={`${S.textTypeOne} split-text hidden-init`}
-						>
-							Enyinnaya
-						</p>
-						<p
-							data-splitting=""
-							className={`${S.textTypeOne} split-text hidden-init`}
-						>
-							Felix
-						</p>
-						<div className={S.media}>
-							<a
-								className={`${S.animateOpacity} ${S.icon}`}
-								href="https://twitter.com/P_h_i_l_i_x"
-							>
-								<Twitter />
-							</a>
-							<a
-								className={`${S.animateOpacity} ${S.icon}`}
-								href="https://www.linkedin.com/in/"
-							>
-								<LinkedIn />
-							</a>
-							<a
-								className={`${S.animateOpacity} ${S.icon}`}
-								href="https://www.behance.net/felixenyinnayadesign"
-							>
-								<Behance />
-							</a>
-						</div>
-					</div>
+					
 					<div className={S.credit1}>
 						<p
 							data-splitting=""
@@ -159,12 +120,55 @@ const Credits: React.FC<PageProps> = ({
 							</a>
 						</div>
 					</div>
+
+					<div className={S.credit2}>
+						<p
+							data-splitting=""
+							className={`${S.creditTitle} split-text hidden-init`}
+						>
+							Design & Art direction
+						</p>
+						<p
+							data-splitting=""
+							className={`${S.textTypeOne} split-text hidden-init`}
+						>
+							Enyinnaya
+						</p>
+						<p
+							data-splitting=""
+							className={`${S.textTypeOne} split-text hidden-init`}
+						>
+							Felix
+						</p>
+						<div className={S.media}>
+							<a
+								className={`${S.animateOpacity} ${S.icon}`}
+								href="https://twitter.com/P_h_i_l_i_x"
+							>
+								<Twitter />
+							</a>
+							<a
+								className={`${S.animateOpacity} ${S.icon}`}
+								href="https://www.linkedin.com/in/"
+							>
+								<LinkedIn />
+							</a>
+							<a
+								className={`${S.animateOpacity} ${S.icon}`}
+								href="https://www.behance.net/felixenyinnayadesign"
+							>
+								<Behance />
+							</a>
+						</div>
+					</div>
+				
 					<p
 						data-splitting=""
 						className={`${S.quoteTwo} split-text hidden-init`}
 					>
 						Transitions. Motion. Interaction. with GSAP and Locomotive
 					</p>
+
 					<div className={S.box1}>
 						<p
 							data-splitting=""
