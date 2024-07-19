@@ -79,7 +79,7 @@ const Credits: React.FC<PageProps> = ({
 					>
 						An exploration of a horizontal scroll experience using the Golden cannon grid
 					</p>
-					<div className={S.credit1}>
+					<div className={S.credit2}>
 						<p
 							data-splitting=""
 							className={`${S.creditTitle} split-text hidden-init`}
@@ -119,7 +119,7 @@ const Credits: React.FC<PageProps> = ({
 							</a>
 						</div>
 					</div>
-					<div className={S.credit2}>
+					<div className={S.credit1}>
 						<p
 							data-splitting=""
 							className={`${S.creditTitle} split-text hidden-init`}
