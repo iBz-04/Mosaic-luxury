@@ -52,7 +52,7 @@ our pieces stand out for their exquisite craftsmanship and timeless appeal.
 					</p>
 					<img
 						className={S.img}
-						src="https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1637486753/it/7-1_y73bqk.png"
+						src="https://res.cloudinary.com/diekemzs9/image/upload/v1721224938/photo-1721201342594-5c86278ab16f_h16jzg.jpg"
 						alt="her"
 					/>
 				</div>
@@ -71,7 +71,7 @@ our pieces stand out for their exquisite craftsmanship and timeless appeal.
 					</p>
 					<img
 						className={S.img}
-						src="https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1637486754/it/7-2_tk158a.png"
+						src="https://res.cloudinary.com/diekemzs9/image/upload/v1721225628/photo-1713783508683-8ee05bca0521_skrkyr.jpg"
 						alt="her"
 					/>
 				</div>
@@ -87,7 +87,7 @@ our pieces stand out for their exquisite craftsmanship and timeless appeal.
 					</p>
 					<img
 						className={S.img}
-						src="https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1637486754/it/7-3_b9syhi.png"
+						src="https://res.cloudinary.com/diekemzs9/image/upload/v1721225457/photo-1721044171157-0384743f4bdf_yhuuwg.jpg"
 						alt="her"
 					/>
 				</div>
@@ -103,7 +103,7 @@ our pieces stand out for their exquisite craftsmanship and timeless appeal.
 					</p>
 					<img
 						className={S.img}
-						src="https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1637486754/it/7-4_lrjllb.png"
+						src="https://res.cloudinary.com/diekemzs9/image/upload/v1721225883/photo-1720420021124-4e18564e070f_cs4wud.jpg"
 						alt="her"
 					/>
 					<LongLine

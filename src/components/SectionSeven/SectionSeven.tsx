@@ -19,11 +19,11 @@ const SectionSeven: React.FC<SectionSevenProps> = ({ windowWidth }) => {
 						className={S.marquee}
 						speed={windowWidth > 1024 ? 15 : 80}
 					>
-						<p className={S.marqueeText}>Finesse</p>
-						<p className={S.marqueeText}>Finesse</p>
-						<p className={S.marqueeText}>Finesse</p>
-						<p className={S.marqueeText}>Finesse</p>
-						<p className={S.marqueeText}>Finesse</p>
+						<p className={S.marqueeText}>Luxury</p>
+						<p className={S.marqueeText}>Fashion</p>
+						<p className={S.marqueeText}>Decor</p>
+						<p className={S.marqueeText}>Events</p>
+						<p className={S.marqueeText}>Design</p>
 					</Marquee>
 				</div>
 				<div className={S.main}>
@@ -36,13 +36,13 @@ const SectionSeven: React.FC<SectionSevenProps> = ({ windowWidth }) => {
 									height="0.33vh"
 									className={S.line1}
 								/>
-								<p className={S.largeText}>Casual</p>
+								<p className={S.largeText}>Classic</p>
 							</div>
 							<div className={S.row2}>
 								<Plus />
 							</div>
 							<div className={S.row3}>
-								<p className={S.largeText}>Street Style</p>
+								<p className={S.largeText}>Style</p>
 								<Line
 									id={"lineRef"}
 									width="5vh"
@@ -65,8 +65,8 @@ const SectionSeven: React.FC<SectionSevenProps> = ({ windowWidth }) => {
 							className={S.img}
 							src={
 								windowWidth > 1024
-									? "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1637522594/it/6_eda4xd.png"
-									: "https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1639309634/it/6-mobile_rk62d6.png"
+									? "https://res.cloudinary.com/diekemzs9/image/upload/v1721225457/photo-1721044171157-0384743f4bdf_yhuuwg.jpg"
+									: "https://res.cloudinary.com/diekemzs9/image/upload/v1721339202/photo-1721274505002-b864a74eade1_y7sy8s.jpg"
 							}
 							alt=""
 						/>

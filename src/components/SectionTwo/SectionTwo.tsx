@@ -15,7 +15,7 @@ const SectionTwo: React.FC = () => {
 						 Our goal is to elevate every moment and space with elegance and creativity.
 						 Our Services
 					</p>
-					<Signature className={S.signature} />
+					{/* <Signature className={S.signature} /> */}
 					<p className={S.person}>CEO</p>
 				</div>
 				<div className={S.imageWrapper}>

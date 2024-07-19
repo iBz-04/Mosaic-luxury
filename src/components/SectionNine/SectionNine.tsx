@@ -26,17 +26,17 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
 				<div className={S.right}>
 					<img
 						className={S.image1}
-						src="https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1637486755/it/8-1_lvr5jx.png"
+						src="https://res.cloudinary.com/diekemzs9/image/upload/v1721339960/photo-1713192707004-c5393db37d57_v7mavj.jpg"
 						alt=""
 					/>
 					<img
 						className={S.image2}
-						src="https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1637486754/it/8-2_posszt.png"
+						src="https://res.cloudinary.com/diekemzs9/image/upload/v1721339267/photo-1721308895508-82ae3bd215cb_dqszte.jpg"
 						alt=""
 					/>
 					<img
 						className={S.image3}
-						src="https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1637486755/it/8-3_okcfgq.png"
+						src="https://res.cloudinary.com/diekemzs9/image/upload/v1721225303/photo-1721201342172-2bf6afec99e3_sy7t4i.jpg"
 						alt=""
 					/>
 					<p

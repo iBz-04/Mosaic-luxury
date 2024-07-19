@@ -35,10 +35,10 @@ const SectionFive: React.FC<SectionFiveProps> = ({ windowWidth }) => {
 					className={S.marquee}
 					speed={windowWidth > 1024 ? 15 : 80}
 				>
-					<p className={S.marqueeText}>Collections</p>
-					<p className={S.marqueeText}>Collections</p>
-					<p className={S.marqueeText}>Collections</p>
-					<p className={S.marqueeText}>Collections</p>
+					<p className={S.marqueeText}>Design</p>
+					<p className={S.marqueeText}>Creativity</p>
+					<p className={S.marqueeText}>Decoration</p>
+					<p className={S.marqueeText}>Luxe</p>
 				</Marquee>
 				<div className={S.main}>
 					<h2
@@ -51,7 +51,7 @@ const SectionFive: React.FC<SectionFiveProps> = ({ windowWidth }) => {
 					</h2>
 					<img
 						className={S.image}
-						src="https://res.cloudinary.com/tobijudah/image/upload/q_auto,f_auto/v1637486753/it/4_xgr6j4.png"
+						src="https://res.cloudinary.com/diekemzs9/image/upload/v1721339512/photo-1721277928143-7a0811f2ad5e_ldevcf.jpg"
 						alt=""
 					/>
 					<h2
@@ -74,7 +74,7 @@ const SectionFive: React.FC<SectionFiveProps> = ({ windowWidth }) => {
 							className={S.line1}
 						/>
 						<p ref={ref} className={S.subText}>
-							feel the comfort
+							feel the luxury
 						</p>
 					</div>
 					<div className={S.subRow}>

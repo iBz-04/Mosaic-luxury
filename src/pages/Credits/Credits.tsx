@@ -66,11 +66,11 @@ const Credits: React.FC<PageProps> = ({
 					className={S.marquee}
 					speed={windowWidth > 1024 ? 15 : 80}
 				>
-					<p className={S.marqueeText}>Credits</p>
-					<p className={S.marqueeText}>Credits</p>
-					<p className={S.marqueeText}>Credits</p>
-					<p className={S.marqueeText}>Credits</p>
-					<p className={S.marqueeText}>Credits</p>
+					<p className={S.marqueeText}>Furniture</p>
+					<p className={S.marqueeText}>Events</p>
+					<p className={S.marqueeText}>Decor</p>
+					<p className={S.marqueeText}>Fashion</p>
+					<p className={S.marqueeText}>Luxury</p>
 				</Marquee>
 				<div className={S.credits}>
 					<p
@@ -177,9 +177,9 @@ const Credits: React.FC<PageProps> = ({
 							className={`${S.textTypeThree} split-text hidden-init`}
 						>
 							<a className={S.bold} href="">
-								Cottonbro
+								from
 							</a>{" "}
-							on Pexels
+							UnSplash
 						</p>
 					</div>
 					<div className={S.box2}>
