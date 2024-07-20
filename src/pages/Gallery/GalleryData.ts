@@ -1,15 +1,15 @@
 export const GalleryData = [
 	{
 		name: "",
-		link: "https://res.cloudinary.com/diekemzs9/image/upload/v1721224938/photo-1721201342594-5c86278ab16f_h16jzg.jpg",
+		link: "https://res.cloudinary.com/diekemzs9/image/upload/e_improve,e_sharpen/v1721407073/photo-1655265172896-8eeedaf38e32_cierny.jpg",
 	},
 	{
 		name: "",
-		link: "https://res.cloudinary.com/diekemzs9/image/upload/v1721225883/photo-1720420021124-4e18564e070f_cs4wud.jpg",
+		link: "https://res.cloudinary.com/diekemzs9/image/upload/e_improve,e_sharpen/v1721407449/photo-1666276574214-752ac346fa19_a1asnu.jpg",
 	},
 	{
 		name: "",
-		link: "https://res.cloudinary.com/diekemzs9/image/upload/v1721225628/photo-1713783508683-8ee05bca0521_skrkyr.jpg",
+		link: "https://res.cloudinary.com/diekemzs9/image/upload/e_improve,e_sharpen/v1721462104/photo-1663811397268-84e66669dc23_oyzszm.jpg",
 	},
 	{
 		name: "",
